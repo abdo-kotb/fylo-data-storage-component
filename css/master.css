@@ -185,7 +185,7 @@ footer a:hover {
 @media (max-width: 767px) {
   body {
     background: url(../images/bg-mobile.png) right;
-    background-size: cover;
+    background-size: 100% 100%;
   }
   main {
     flex-direction: column;
@@ -216,7 +216,7 @@ footer a:hover {
 @media (min-width: 768px) {
   body {
     background: url(../images/bg-desktop.png) bottom;
-    background-size: contain;
+    background-size: 100% 50%;
   }
   main {
     gap: 3rem;

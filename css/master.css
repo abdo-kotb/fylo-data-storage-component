@@ -129,7 +129,7 @@ section {
   font-size: 4rem;
   font-weight: bold;
   border-radius: 1.5rem;
-  animation: counter 2s ease-in-out;
+  animation: counter 2s forwards ease-in-out;
   counter-reset: num var(--num);
 }
 .remaining::before {

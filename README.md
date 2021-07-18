@@ -13,6 +13,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -86,5 +87,9 @@ I learned to create a number counter animation by a method that is not yet fully
 - Git hub - [abdo-kotb](github.com/abdo-kotb)
 - [Linkedin](https://www.linkedin.com/in/abdulrhman-mohammed-5687781b5/)
 - Frontend Mentor - [@abdo-kotb](https://www.frontendmentor.io/profile/abdo-kotb)
+
+## Acknowledgments
+
+[hao pham](https://github.com/jerry-the-kid)'s [latest design](https://jerry-the-kid.github.io/fylo-data-storage-component/) has helped me with the `background-size`  issue. So big thanks to him. 
 
 Abdulrhman Kotb
